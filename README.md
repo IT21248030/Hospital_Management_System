@@ -1,18 +1,7 @@
 # 🏥 Hospital Management System - Norris Clinic (Pvt) Ltd
 
 A full-stack **MERN-based Hospital Management System** designed for Norris Clinic (Pvt) Ltd to streamline hospital operations, enhance patient care, and improve management efficiency.
-## 👨‍💻 Group: TW2
-
-| Name                       | Student ID     |
-|----------------------------|----------------|
-| Kulasekara M P G G         | IT21279898     |
-| Senarathne E O P           | IT21196706     |
-| Jayasinghe J.I.B           | IT21306518     |
-| Abeywickrama W.N.V         | IT21473524     |
-| Harischandra D.P.N.B       | IT21248030     |
-| Samarakoon S.M.S.C         | IT21072888     |
-| Perera B.A.D.K.S           | IT21202254     |
-| De Silva G.H.G.T.S         | IT21219702     |
+<img width="1251" height="706" alt="image" src="https://github.com/user-attachments/assets/2034ed18-5d32-4e88-88f7-cc67cc71ef44" />
 
 
 ## 📌 Project Overview
